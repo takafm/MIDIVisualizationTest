@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/A_Light/Light.unity
+    guid: 70411be68e1b546c48e2867e0b3bfde1
+  - enabled: 0
+    path: Assets/Scenes/B_ShadowBall/ShadowBall.unity
+    guid: f12ac634289db4c24bb744a95ff3d335
+  - enabled: 0
+    path: Assets/Scenes/C_SpringBall/SpringBall.unity
+    guid: 4ab248e4569614c1aa1df2992f77d179
+  - enabled: 0
+    path: Assets/Scenes/D_Ink/Ink.unity
+    guid: c474c16a9d32c4e11ad33384e8f1f1be
+  - enabled: 0
+    path: Assets/Scenes/C_SpringBall/DynamicResolution/SpringBall_DynamicResolution.unity
+    guid: 183118168518a44d2a351b024c923e18
   m_configObjects: {}

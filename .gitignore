@@ -5,6 +5,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Bb]uildApps/
+[Rr]ecordings
 Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
